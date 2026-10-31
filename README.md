@@ -75,7 +75,3 @@ anti-br/
     ├── commands/anti-br.md      # Cursor command
     └── rules/anti-br.mdc        # Cursor rule
 ```
-
-## License
-
-MIT
